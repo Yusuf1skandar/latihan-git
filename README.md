@@ -1,8 +1,8 @@
-<h1>PERPUSTAKAAN</h1>
-<h3>Aplikasi Web dengan Framework Codeigniter</h3>
+<h1>Web Programming II</h1>
+<h3>17200448_Yusuf Iskandar_ 17.6A.11</h3>
 
 
-<p>Ini Adalah tugas dari mata kuliah web programming II .</p>
+<p>Untuk memenuhi tugas Pak Wez .</p>
 
 <br>
 <br>
